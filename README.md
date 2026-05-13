@@ -1,5 +1,3 @@
-# AIAgentClass
-This repo is Agentic Ai for Business 2026
 # Agentic IT Support Desk
 
 An AI-powered multi-agent IT support system built for SJSU BUS4-118S.
